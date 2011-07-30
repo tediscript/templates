@@ -2,12 +2,16 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Profile</title>
+        <title>Signup</title>
     </head>
     <body>
-        <h1>Profile</h1>
+        <h1>Signup</h1>
         <hr/>
         <form method="post">
+            Username:<br/>
+            <input type="text" value="" name="username" /><br/>
+            Password:<br/>
+            <input type="password" value="" name="password" /><br/>
             Name:<br/>
             <input type="text" value="" name="name" /><br/>
             Location:<br/>
